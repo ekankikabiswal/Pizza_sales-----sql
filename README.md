@@ -15,7 +15,7 @@ The dataset contains information about:
 
 Using SQL, several analytical questions were solved to understand sales patterns, revenue distribution, and product performance.
 
-✅ Key SQL Tasks Performed
+Key SQL Tasks Performed
 1. Total number of orders placed
 
 Query to count all orders in the dataset.
@@ -57,17 +57,17 @@ Used window functions to compute running total revenue.
 13. Top 3 revenue-generating pizza types within each category
 Category-wise ranking using analytic SQL functions.
 
-🛠 Tools Used
+Tools Used
 
 MySQL Workbench – SQL query writing and execution
 PDF Report – Visual presentation of analysis (Pizza_sales.pdf)
 
-📂 Files Included:
+Files Included:
 1.SQL_queries.sql – All SQL queries used in the project
 2.Pizza_sales.pdf – Project presentation
 3.README.md – Project documentation
 
-🎯 Project Outcome
+Project Outcome
 
 This project demonstrates practical SQL skills including:
 1.Data cleaning
