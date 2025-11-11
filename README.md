@@ -19,7 +19,7 @@ Using SQL, several analytical questions were solved to understand sales patterns
 1. Total number of orders placed
 
 Query to count all orders in the dataset.
-2. Total revenue generated from pizza sales
+3. Total revenue generated from pizza sales
 
 Revenue calculated using:
 quantity × price with necessary table joins.
@@ -76,5 +76,6 @@ This project demonstrates practical SQL skills including:
 4.Grouping and ordering
 5.Ranking
 6.Window functions
-
 7.Revenue and trend analysis
+
+Example: https://github.com/ekankikabiswal/Pizza_sales-----sql/blob/main/README.md?plain=1
