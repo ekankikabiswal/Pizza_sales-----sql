@@ -77,5 +77,3 @@ This project demonstrates practical SQL skills including:
 5.Ranking
 6.Window functions
 7.Revenue and trend analysis
-
-Example: https://github.com/ekankikabiswal/Pizza_sales-----sql/blob/main/README.md?plain=1
